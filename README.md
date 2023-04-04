@@ -1,16 +1,19 @@
-### Hi there 👋
+HI.I'm Charles Jayasundera 👋
 
-<!--
-**charlsjay/Charlsjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Charles. I graduated with a Bachelor of Managment information system and decided to start my career path by learning Frontend development. Recently I successfully graduated 24 week Frontend course at Jagaad Academy. Last six months I a had a great chance to learn and practice a large number of modern technologies that are needed and useful for Frontend Developer beginners:
 
-Here are some ideas to get you started:
+HTML
+CSS
+SASS
+Javascript
+TypeScript
+React
+Redux
+Next.js
+Docker
+In this GitHub profile you will find some of my projects that cover important topics during the course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Looking for: Junior Frontend Developer position
+📭 You can reach me via: LinkedIn | Email
+📌 Current location: Sri Lanka, Kandy
+🚀 Available for: Fully Remote | Relocation | On-site (Kandy)
