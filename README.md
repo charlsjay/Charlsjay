@@ -21,7 +21,7 @@ In this GitHub profile you will find some of my projects that cover important to
 
 
 
-My GitHub Stats 👇
+<h1>My GitHub Stats 👇 </h1>
 
 
 [![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlsjay&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
