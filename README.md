@@ -1,4 +1,4 @@
-HI.I'm Charles Jayasundera 👋
+<h3>HI.I'm Charles Jayasundera 👋 </h3>
 
 Hi, I'm Charles. I graduated with a Bachelor of Managment information system and decided to start my career path by learning Frontend development. Recently I successfully graduated 24 week Frontend course at Jagaad Academy. Last six months I a had a great chance to learn and practice a large number of modern technologies that are needed and useful for Frontend Developer beginners:
 
@@ -21,7 +21,7 @@ In this GitHub profile you will find some of my projects that cover important to
 
 
 
-<h1>My GitHub Stats 👇 </h1>
+<h3>My GitHub Stats 👇 </h3>
 
 
 [![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlsjay&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
