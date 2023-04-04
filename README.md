@@ -11,6 +11,7 @@ React <br>
 Redux <br>
 Next.js <br>
 Docker <br>
+
 In this GitHub profile you will find some of my projects that cover important topics during the course.
 
 💻 Looking for: Junior Frontend Developer position <br>
