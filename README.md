@@ -1,8 +1,8 @@
-<h1>HI.I'm Charles Jayasundera <h1>👋
+HI.I'm Charles Jayasundera 👋
 
 Hi, I'm Charles. I graduated with a Bachelor of Managment information system and decided to start my career path by learning Frontend development. Recently I successfully graduated 24 week Frontend course at Jagaad Academy. Last six months I a had a great chance to learn and practice a large number of modern technologies that are needed and useful for Frontend Developer beginners:
 
-HTML
+HTML <br>
 CSS
 SASS
 Javascript
