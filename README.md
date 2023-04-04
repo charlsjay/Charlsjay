@@ -15,6 +15,6 @@ Docker <br>
 In this GitHub profile you will find some of my projects that cover important topics during the course.
 
 💻 Looking for: Junior Frontend Developer position <br>
-📭 You can reach me via: [LinkedIn](www.linkedin.com/in/charles-j-504969109) | [Email](mailto:charlsjayasundera@gmail.com)
+📭 You can reach me via: [LinkedIn](www.linkedin.com/in/charles-j-504969109) | [Email](mailto:charlsjayasundera@gmail.com)<br>
 📌 Current location: Sri Lanka, Kandy <br>
 🚀 Available for: Fully Remote | Relocation | On-site (Kandy) <br>
